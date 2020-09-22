@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://fondosmil.com/fondo/10829.jpg);
+    display: block;
+       text-align: center;
+       font-family: 'Fredoka One', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Press Start 2P', cursive;
+    }
+    .container{
+        background-image: url(https://i2.wp.com/www.gamerfocus.co/wp-content/uploads/2020/09/among3.jpg?resize=740%2C370&ssl=1) ;
+        width: 1050px;
+       height: 600px;
+       
+        
+        background-size: cover;
+
+    }
+    table {
+        margin:0 auto;
+    }
+    .amongUs{
+        width: 800px;
+        height: 200px;
+        margin:0 auto;
+    }
+    .textoLol{
+        background: transparent ;
+       border: transparent;
+        font-size: 30px;
+        width: 800px;
+        margin: 0 auto;
+       color: rgb(29, 169, 250);
+      
+      }
+    
